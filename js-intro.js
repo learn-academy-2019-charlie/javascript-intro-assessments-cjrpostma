@@ -52,8 +52,8 @@ console.log(returnsStringIndexV(mantra))
 
 // Consider the following statement:
 
-var codingIsEasy = codingIsEasy
-var imBored = imBored
+var codingIsEasy = true
+var imBored = true
 
 if (codingIsEasy && imBored) {
     console.log("I need more!")
